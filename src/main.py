@@ -2,4 +2,4 @@
 
 print("Concha e tu madreee")
 
-print("Wey no mames" * 15)
+print("Wey no mames" * 20)
